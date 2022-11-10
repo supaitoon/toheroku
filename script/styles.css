@@ -1,0 +1,100 @@
+h1 {
+  color: red;
+}
+
+h2 {
+  color: rgb(54, 16, 190);
+}
+
+a {
+  color: #ff00ff;
+  font-size: 20px;
+}
+
+a:hover {
+  color: #31049b;
+}
+
+.abc {
+  color: blue;
+  text-shadow: 2px 3px red;
+}
+
+.bg {
+  background-color: #99ccff;
+}
+
+
+
+.testpic{
+  background-image: url("../images/down.png");
+ background-repeat: repeat-y; 
+
+ opacity: 1;
+
+}
+.testpic2{
+  background-image: url("../images/2.jpg");
+ background-repeat: repeat-y; 
+
+ opacity: 1;
+
+}
+
+
+
+.bgimgtech{
+  background-image: url("../images/gold.jpg");
+  background-repeat: repeat-x;
+  opacity: 1;
+}
+
+
+.bgg {
+  background-color: #06a16e;
+}
+
+.border {
+  border: 2px solid red;
+  border-radius: 5px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgba(92, 61, 228, 0.5);
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: rgb(56, 18, 228);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #ff0099;
+  font-size: 18px;
+}
+
+img {
+  height: 200;
+}
+
+.f40{fontsize:5px; }
+
+
+
+.aaa{
+  color: #d1ce0a;
+}
+
+
+
